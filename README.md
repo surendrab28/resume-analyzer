@@ -14,8 +14,7 @@ AI Resume Assistant is a web application that analyzes resumes and job descripti
 - **Frontend**: React.js, Vite, Tailwind CSS
 - **Backend**: Spring Boot
 - **AI Integration**: Gemini AI API
-- **Database**: MySQL
-- **Version Control**: Git, GitHub
+
 
 ## 📂 Project Structure
 ```
@@ -47,7 +46,7 @@ cd frontend
 npm install
 npm run dev
 ```
-_Frontend will run on `http://localhost:5173`._
+_Frontend will run on `http://localhost:3000`._
 
 ## 🖥 Usage
 1. Upload a resume file (PDF or DOCX).
