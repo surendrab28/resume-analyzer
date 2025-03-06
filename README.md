@@ -18,7 +18,7 @@ AI Resume Assistant is a web application that analyzes resumes and job descripti
 
 ## 📂 Project Structure
 ```
-AI-Resume-Assistant/
+resume-analyzer/
 │── backend/                # Spring Boot backend
 │── frontend/               # React frontend
 │── README.md               # Project documentation
@@ -29,7 +29,7 @@ AI-Resume-Assistant/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/surendrab28/ai-resume-assistant.git
-cd ai-resume-assistant
+cd resume-analyzer
 ```
 
 ### 2️⃣ Backend Setup
